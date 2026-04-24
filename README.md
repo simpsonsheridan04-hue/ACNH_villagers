@@ -21,7 +21,7 @@ This project looks at the villagers in the game Animal Crossing New Horizons (AC
 This dataset was gathered from Kaggle (https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset?select=villagers.csv). Please note, this does not include content of any new villagers after the initial game launch in 2020. Three updates were launched on 3/2021, 11/2021, and 1/2026, which added additonal villagers through amiibos. (source: https://www.ign.com/wikis/animal-crossing-new-horizons/Villager_List:_All_Villagers_and_Special_Characters)
  
 ## Additional Visuals
-Check out this additional visual made using tableau for a sneak peak!
+Check out this additional visual made using Tableau for a sneak peak!
 
 <img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/0f9d0f35-07cf-494d-8edd-81645a4580af" />
 
